@@ -1,0 +1,6 @@
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = https://github.com/twitter/bootstrap.git
+[submodule "lib/less"]
+	path = lib/less
+	url = https://github.com/cloudhead/less.js.git
